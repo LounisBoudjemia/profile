@@ -75,7 +75,7 @@ i {
   padding: 0;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1200px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
     width: 844px;
